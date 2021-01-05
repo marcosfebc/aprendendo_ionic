@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "projeto_em_branco",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
